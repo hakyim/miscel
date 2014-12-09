@@ -18,12 +18,13 @@ We are requesting the following documentation:
  
 After Atwood comes back on line, we will also be requesting:
  
-3. That you re-certify that you will properly protect research data in Atwood.  Specifically, 
-3.1. that you will not ever connect from an Atwood virtual machine directly to the Internet (but instead all connections will always go through the Atwood Head Node); 
-3.2. that all protected health information is always transported in an encrypted form; 
-3.3. that if any protected health information or other sensitive data is ever removed from Atwood, then it is transported in an encrypted form to another computing environment that has been approved by your home institution for storing and managing sensitive data; and 
-3.4. that you will not defeat or circumvent any of the mechanisms that Atwood employs for protecting and securing data, include proxies and head nodes.  
-This re-certification will be done by reading an online notice and indicating that you will honor the Atwood usage agreement.
+3. That you re-certify that you will properly protect research data in Atwood.  Specifically,
+  
+  - that you will not ever connect from an Atwood virtual machine directly to the Internet (but instead all connections will always go through the Atwood Head Node)
+  - that all protected health information is always transported in an encrypted form; 
+  - that if any protected health information or other sensitive data is ever removed from Atwood, then it is transported in an encrypted form to another computing environment that has been approved by your home institution for storing and managing sensitive data; and 
+  - that you will not defeat or circumvent any of the mechanisms that Atwood employs for protecting and securing data, include proxies and head nodes.  
+  - This re-certification will be done by reading an online notice and indicating that you will honor the Atwood usage agreement.
  
 ###About CITI Training:
  
@@ -31,21 +32,22 @@ Please complete the following five courses from CITI training by December 11th, 
 
 Basics of Health Privacy
 - Health Privacy Issues for Researchers
-Responsible Conduct of Research (RCR) Basic
-Human Subjects Research – Biomedical (Biomed) Modules
-Basics of Information Security, Part 1
-Basics of Information Security, Part 2
+-Responsible Conduct of Research (RCR) Basic
+- Human Subjects Research – Biomedical (Biomed) Modules
+- Basics of Information Security, Part 1
+- Basics of Information Security, Part 2
+
 Here are some details:
-Go to CITI home page: www.citiprogram.org
-If you do not already have a CITI account, go to "Create an account" --> Register and select your Organization Affiliation.  Be sure to select your home institution as your “Participating Institution,” select a username/password, and fill out all other necessary information requested in registration. 
-Once this is completed you will be required to complete 4 enrollment questions. This will determine the modules you will need to complete.  
-Please make the following choices:
-Would you like to take the Conflict of Interest Course? - "Yes"
-Select your Division at your Institution.
-Researchers involved in protocols need to complete CITI Basic/Refresher - "Need to Enroll for Research Staff"
-Responsible and Ethical Conduct of Research course - "Yes"
-Once complete, send your certificate and OSDC username to accounts@opencloudconsortium.org
-Please make sure and complete this process by the December 11th, 2015 or your resource allocation will be suspended.
+- Go to CITI home page: www.citiprogram.org
+- If you do not already have a CITI account, go to "Create an account" --> Register and select your Organization Affiliation.  Be sure to select your home institution as your “Participating Institution,” select a username/password, and fill out all other necessary information requested in registration. 
+- Once this is completed you will be required to complete 4 enrollment questions. This will determine the modules you will need to complete.  
+- Please make the following choices:
+- Would you like to take the Conflict of Interest Course? - "Yes"
+- Select your Division at your Institution.
+- Researchers involved in protocols need to complete CITI Basic/Refresher - "Need to Enroll for Research Staff"
+- Responsible and Ethical Conduct of Research course - "Yes"
+- Once complete, send your certificate and OSDC username to accounts@opencloudconsortium.org
+- Please make sure and complete this process by the December 11th, 2015 or your resource allocation will be suspended.
  
 Thank you,
 Robert Grossman
