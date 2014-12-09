@@ -12,19 +12,25 @@ Another important requirement is that those using a computing infrastructure lik
  
 We are requesting the following documentation:
  
-1) For each project, that the PI of the project send us a copy of the IRB approved protocol for the study using the Atwood Protected Data Cloud or a letter showing the study is exempt from needing an IRB Protocol.   The IRB Protocol or Exemption should be from the home institution of the PI for the project.   For new protocols or renewals of protocols, please refer explicitly to the Atwood environment.
+1. For each project, that the PI of the project send us a copy of the IRB approved protocol for the study using the Atwood Protected Data Cloud or a letter showing the study is exempt from needing an IRB Protocol.   The IRB Protocol or Exemption should be from the home institution of the PI for the project.   For new protocols or renewals of protocols, please refer explicitly to the Atwood environment.
  
-2) For each researcher with a Atwood Protected Data Cloud account, a certificate proving that the researcher has completed CITI training appropriate for working with Protected Health Information or other sensitive data.  A copy of a certificate indicating that you have completed the required CITI training will be requested each year.  
+2. For each researcher with a Atwood Protected Data Cloud account, a certificate proving that the researcher has completed CITI training appropriate for working with Protected Health Information or other sensitive data.  A copy of a certificate indicating that you have completed the required CITI training will be requested each year.  
  
 After Atwood comes back on line, we will also be requesting:
  
-3) That you re-certify that you will properly protect research data in Atwood.  Specifically, 1) that you will not ever connect from an Atwood virtual machine directly to the Internet (but instead all connections will always go through the Atwood Head Node); 2) that all protected health information is always transported in an encrypted form; 3) that if any protected health information or other sensitive data is ever removed from Atwood, then it is transported in an encrypted form to another computing environment that has been approved by your home institution for storing and managing sensitive data; and 4) that you will not defeat or circumvent any of the mechanisms that Atwood employs for protecting and securing data, include proxies and head nodes.  This re-certification will be done by reading an online notice and indicating that you will honor the Atwood usage agreement.
+3. That you re-certify that you will properly protect research data in Atwood.  Specifically, 
+3.1. that you will not ever connect from an Atwood virtual machine directly to the Internet (but instead all connections will always go through the Atwood Head Node); 
+3.2. that all protected health information is always transported in an encrypted form; 
+3.3. that if any protected health information or other sensitive data is ever removed from Atwood, then it is transported in an encrypted form to another computing environment that has been approved by your home institution for storing and managing sensitive data; and 
+3.4. that you will not defeat or circumvent any of the mechanisms that Atwood employs for protecting and securing data, include proxies and head nodes.  
+This re-certification will be done by reading an online notice and indicating that you will honor the Atwood usage agreement.
  
 ###About CITI Training:
  
-Please complete the following five courses from CITI training by December 11th, 2014.  
+Please complete the following five courses from CITI training by December 11th, 2014. 
+
 Basics of Health Privacy
-Health Privacy Issues for Researchers
+- Health Privacy Issues for Researchers
 Responsible Conduct of Research (RCR) Basic
 Human Subjects Research – Biomedical (Biomed) Modules
 Basics of Information Security, Part 1
