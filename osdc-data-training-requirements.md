@@ -30,9 +30,9 @@ After Atwood comes back on line, we will also be requesting:
  
 Please complete the following five courses from CITI training by December 11th, 2014. 
 
-Basics of Health Privacy
+- Basics of Health Privacy
 - Health Privacy Issues for Researchers
--Responsible Conduct of Research (RCR) Basic
+- Responsible Conduct of Research (RCR) Basic
 - Human Subjects Research – Biomedical (Biomed) Modules
 - Basics of Information Security, Part 1
 - Basics of Information Security, Part 2
