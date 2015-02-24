@@ -3,6 +3,7 @@
 '''
 Given two files, select (output) lines of the second (data) file which contain one of
 the data items in the first (selector) file.
+Yarko Tymciurak
 '''
 from __future__ import print_function
 from collections import namedtuple
